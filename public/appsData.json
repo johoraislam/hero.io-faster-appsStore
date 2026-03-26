@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=400",
+    "title": "Vortex Video Editor",
+    "companyName": "PixelForge Labs",
+    "description": "Professional-grade video editing with AI-powered transitions and 4K export capabilities.",
+    "size": 142,
+    "reviews": 12400,
+    "ratingAvg": 4.8,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 450 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 9500 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?w=400",
+    "title": "ZenFlow Meditation",
+    "companyName": "Mindful Tech",
+    "description": "Daily guided meditations, sleep sounds, and breathing exercises to reduce stress and anxiety.",
+    "size": 65,
+    "reviews": 8900,
+    "ratingAvg": 4.6,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=400",
+    "title": "CryptoVault Pro",
+    "companyName": "SecureChain",
+    "description": "A secure, decentralized wallet for managing your digital assets and tracking real-time market trends.",
+    "size": 48,
+    "reviews": 4200,
+    "ratingAvg": 4.2,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 650 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 1700 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?w=400",
+    "title": "Titan Fitness",
+    "companyName": "IronBody Apps",
+    "description": "Custom workout plans and nutrition tracking with live sessions from world-class trainers.",
+    "size": 110,
+    "reviews": 15600,
+    "ratingAvg": 4.9,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 13000 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1512428559087-560fa5ceab42?w=400",
+    "title": "SkyLine Weather",
+    "companyName": "MeteoGroup",
+    "description": "Hyper-local weather forecasts with interactive radar and severe storm alerts.",
+    "size": 32,
+    "reviews": 2100,
+    "ratingAvg": 3.8,
+    "downloads": 95000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 500 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=400",
+    "title": "CodeCraft IDE",
+    "companyName": "DevTools Inc",
+    "description": "Mobile-first coding environment supporting over 20 languages with Git integration.",
+    "size": 89,
+    "reviews": 5600,
+    "ratingAvg": 4.5,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 3000 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400",
+    "title": "TaskMaster AI",
+    "companyName": "Productive.io",
+    "description": "An intelligent todo list that uses AI to prioritize tasks and optimize your schedule.",
+    "size": 28,
+    "reviews": 11200,
+    "ratingAvg": 4.7,
+    "downloads": 850000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 8000 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=400",
+    "title": "CinemaStream",
+    "companyName": "Global Media",
+    "description": "Stream thousands of independent films and documentaries directly to your device.",
+    "size": 75,
+    "reviews": 3400,
+    "ratingAvg": 4.1,
+    "downloads": 400000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1200 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=400",
+    "title": "RetroArcade Pro",
+    "companyName": "Nostalgia Gaming",
+    "description": "The ultimate emulator collection featuring classics from the 8-bit and 16-bit eras.",
+    "size": 55,
+    "reviews": 18000,
+    "ratingAvg": 4.4,
+    "downloads": 3500000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 10000 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://images.unsplash.com/photo-1555774698-0b77e0d5fac6?w=400",
+    "title": "FocusTimer",
+    "companyName": "DeepWork Labs",
+    "description": "A Pomodoro-based timer that blocks distracting apps to help you stay in the flow.",
+    "size": 18,
+    "reviews": 7600,
+    "ratingAvg": 4.3,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 3000 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400",
+    "title": "LangQuest",
+    "companyName": "Polyglot Systems",
+    "description": "Gamified language learning for over 40 languages with native speaker recognition.",
+    "size": 95,
+    "reviews": 25000,
+    "ratingAvg": 4.8,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 17000 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400",
+    "title": "AutoFix Pro",
+    "companyName": "GearHead Apps",
+    "description": "OBD2 scanner and car diagnostic tool that helps you understand engine health.",
+    "size": 42,
+    "reviews": 1500,
+    "ratingAvg": 3.9,
+    "downloads": 50000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 400 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400",
+    "title": "FinTrack",
+    "companyName": "WealthWise",
+    "description": "Automated expense tracking and budget planning with bank-level encryption.",
+    "size": 38,
+    "reviews": 9200,
+    "ratingAvg": 4.6,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 5000 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=400",
+    "title": "DesignPad",
+    "companyName": "Creative Studio",
+    "description": "Vector-based illustration tool for designers and artists on the go.",
+    "size": 125,
+    "reviews": 6700,
+    "ratingAvg": 4.4,
+    "downloads": 450000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 3600 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?w=400",
+    "title": "SmartHome Hub",
+    "companyName": "Nexus IoT",
+    "description": "Control all smart devices from one unified dashboard with custom automation scenes.",
+    "size": 52,
+    "reviews": 2300,
+    "ratingAvg": 4.0,
+    "downloads": 120000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 700 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=400",
+    "title": "EcoRoute",
+    "companyName": "GreenMaps",
+    "description": "Navigation optimized for fuel efficiency and electric vehicle charging station locations.",
+    "size": 44,
+    "reviews": 3100,
+    "ratingAvg": 4.3,
+    "downloads": 180000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 850 },
+      { "name": "5 star", "count": 1500 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://images.unsplash.com/photo-1616469829581-73993eb86b02?w=400",
+    "title": "RecipeBox",
+    "companyName": "Culinary Cloud",
+    "description": "Save recipes from any website, generate grocery lists, and follow step-by-step cooking videos.",
+    "size": 58,
+    "reviews": 14200,
+    "ratingAvg": 4.7,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3700 },
+      { "name": "5 star", "count": 9000 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=400",
+    "title": "UltraCast",
+    "companyName": "Broadwave",
+    "description": "High-fidelity podcast player with AI transcriptions and offline listening support.",
+    "size": 36,
+    "reviews": 5100,
+    "ratingAvg": 4.5,
+    "downloads": 420000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 2500 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://images.unsplash.com/photo-1550439062-609e1531270e?w=400",
+    "title": "PixelArt Studio",
+    "companyName": "DotMatrix",
+    "description": "Simple yet powerful tool for creating pixel art, sprites, and frame-by-frame animations.",
+    "size": 22,
+    "reviews": 8400,
+    "ratingAvg": 4.6,
+    "downloads": 750000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 280 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 5000 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=400",
+    "title": "SwiftScan",
+    "companyName": "OfficeGenie",
+    "description": "Quickly scan documents to PDF with automatic edge detection and OCR text recognition.",
+    "size": 31,
+    "reviews": 19500,
+    "ratingAvg": 4.9,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 15000 }
+    ]
+  }
+]

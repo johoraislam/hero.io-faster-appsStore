@@ -101,7 +101,7 @@ const Header = () => {
             {/* Button */}
             <div className="lg:ml-4 mt-2 lg:mt-0">
               <Link
-                to="https://github.com/AsifHossain22/hero.io-app-store"
+                to="https://github.com/johoraislam/hero.io-faster-appsStore"
                 target="_blank"
                 className="inline-flex gap-2 bg-linear-to-r from-[#632EE3] to-[#9F62F2] px-4 py-3 rounded-sm text-white font-semibold hover:opacity-90 transition-all duration-300"
               >
@@ -114,7 +114,7 @@ const Header = () => {
         {/* Button */}
         <div className="navbar-end lg:ml-4 mt-2 lg:mt-0 hidden lg:flex">
           <Link
-            to="https://github.com/AsifHossain22/hero.io-app-store"
+            to="https://github.com/johoraislam/hero.io-faster-appsStore"
             target="_blank"
             className="inline-flex gap-2 bg-linear-to-r from-[#632EE3] to-[#9F62F2] px-4 py-3 rounded-sm text-base-100 font-semibold hover:opacity-90 hover:scale-105 transition-all duration-300"
           >
